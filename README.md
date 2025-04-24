@@ -17,12 +17,10 @@ Målet med detta projekt är att:
 - **pandas** – datahantering
 - **matplotlib / seaborn** – visualisering
 - **scikit-learn** – modellträning och utvärdering
-- (Eventuellt) **TensorFlow** eller **PyTorch** – för mer avancerad AI
 
 ## 📊 Funktioner
 
-- Automatisk dataladdning och inspektion
-- Flexibla visualiseringsalternativ (t.ex. korrelationsmatriser, tidsserier, histogram)
+- Flexibla visualiseringsalternativ
 - Modellträning med olika algoritmer (t.ex. Random Forest, SVM, Neural Networks)
 - Utvärdering med hjälp av metrik såsom precision, recall, accuracy, och confusion matrix
 - Möjlighet att göra framtida prediktioner på ny data
